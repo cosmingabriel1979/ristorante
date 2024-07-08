@@ -340,6 +340,7 @@ h2 {
     .navigator li {
         display: block;
         background-color: rgba(128, 214, 214, 0.527);
+        z-index: 2;
        
 
     }
