@@ -362,6 +362,9 @@ h2 {
     .banda {
         display: none;
     }
+    .container , .final-block article, footer {
+        z-index: -1;
+    }
     
  
     
